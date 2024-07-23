@@ -7,7 +7,7 @@ const nombre='Martin';
 const apellido='Tigani';
 
 let valorDado=5;
-valorDado=4;
+valorDado=6;
 console.log(nombre, apellido, valorDado);
 
 if(true){
